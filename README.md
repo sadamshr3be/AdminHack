@@ -8,6 +8,7 @@ today we will hack the admin panel of the site
 * `pkg install git`
 * `git clone https://github.com/sadamshr3be/AdminHack`
 * `cd AdminHack`
+* ` unzip src.zip`
 * `bash setup.sh`
 
 #### Everything is ready! Now we are waiting for everything to download!
